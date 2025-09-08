@@ -12,7 +12,7 @@
 
 ---
 
-## 2. Elaborate ASCII + Binary + Animation README Example:
+
 
 ```markdown
 ```ansi
