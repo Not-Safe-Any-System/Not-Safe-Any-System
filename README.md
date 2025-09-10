@@ -17,8 +17,8 @@
   </div>
 <img src ="w.gif">
 <div style = "display:flex;  justify-content: center;width:100%;">
-<img src="ak.jpg" width:100vh>
-<img src="ak.jpg" width:100vh>
+<img src="ak.jpg" width:50%;>
+<img src="ak.jpg" width:50%>
   </div>
 ---
 
