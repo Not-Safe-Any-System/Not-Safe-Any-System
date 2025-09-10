@@ -16,7 +16,10 @@
   
   </div>
 <img src ="w.gif">
-    <audio src="background music.mp3" autoplay loop controls ></audio>
+<div style = "display:flex;  justify-content: center;width:100%;">
+<img src="ak.jpg" width:100vh>
+<img src="ak.jpg" width:100vh>
+  </div>
 ---
 
 
